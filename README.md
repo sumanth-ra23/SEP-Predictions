@@ -1,8 +1,8 @@
 # Predicting SEP Events Using Machine Learning Timeseries Classifiers
 
 Definitions:
- Events are those strong SEPs crossing the 10 pfu threshold in the GOES 10 MeV channels
- Non-events are weak SEPs with GOES 10 MeV protons below 10 pfu threshold.
+a. Events are those strong SEPs crossing the 10 pfu threshold in the GOES 10 MeV channels.
+b. Non-events are weak SEPs with GOES 10 MeV protons below 10 pfu threshold.
 
 Source code documentation:
 
